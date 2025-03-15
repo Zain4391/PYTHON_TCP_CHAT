@@ -133,8 +133,4 @@ Contributions are welcome! If you’d like to improve this project:
     Push to your branch (git push origin feature-name).
     Open a pull request.
 
-Acknowledgments
-
-    Inspired by various TCP chat implementations on GitHub, such as those by rahulMishra05 and Rishija.
-    Built as a learning project to explore socket programming and multi-threading in Python.
 
